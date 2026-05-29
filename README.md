@@ -67,13 +67,15 @@ python main.py
 - Most customers purchase **only once** — loyalty programs could help retention
 
 ## Visualizations
+
 ### RFM Distribution
-![RFM Distribution](outputs_plots/rfm_distribution.png)
+![RFM Distribution](outputs/plots/rfm_distribution.png)
 
-![Customer Segments](outputs_plots/customer_segments.png)
+### Customer Segments
+![Customer Segments](outputs/plots/customer_segments.png)
 
-![Top Customers](outputs_plots/top_customers.png)
-
+### Top Customers
+![Top Customers](outputs/plots/top_customers.png)
 ## Author
 Made with purpose by Sakshi
 
