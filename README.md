@@ -69,13 +69,13 @@ python main.py
 ## Visualizations
 
 ### RFM Distribution
-![RFM Distribution](outputs/plots/rfm_distribution.png)
+![RFM Distribution](.outputs/plots/rfm_distribution.png)
 
 ### Customer Segments
-![Customer Segments](outputs/plots/customer_segments.png)
+![Customer Segments](.outputs/plots/customer_segments.png)
 
 ### Top Customers
-![Top Customers](outputs/plots/top_customers.png)
+![Top Customers](.outputs/plots/top_customers.png)
 ## Author
 Made with purpose by Sakshi
 
